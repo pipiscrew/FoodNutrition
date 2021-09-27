@@ -1,5 +1,5 @@
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/pipiscrew/FoodNutrition.svg)](https://github.com/pipiscrew/html2apk/releases)
-[![GitHub All Releases](https://img.shields.io/github/downloads/pipiscrew/FoodNutrition/total.svg)](https://github.com/pipiscrew/html2apk/releases)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/pipiscrew/FoodNutrition.svg)](https://github.com/pipiscrew/FoodNutrition/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/pipiscrew/FoodNutrition/total.svg)](https://github.com/pipiscrew/FoodNutrition/releases)
 
 
 # FoodNutrition
