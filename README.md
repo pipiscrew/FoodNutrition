@@ -3,7 +3,7 @@
 
 
 # FoodNutrition
-Find nutrition for every food, find which foods has specific ingredient.
+Find nutrition for every food, find which foods have specific ingredient.
 
 &nbsp;
 ## This project uses the following 3rd-party dependencies :  
