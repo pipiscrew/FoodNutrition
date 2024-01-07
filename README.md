@@ -11,7 +11,7 @@ Find nutrition for every food, find which foods have specific ingredient. Source
 * [sqlite3.dll](https://www.sqlite.org/)  
 
 ## note
-user can use the (3rd party, no affiliation) site [My Food Data.Nutrition Facts Search Tool](https://tools.myfooddata.com/nutrition-facts/) to create a `nutrition table` by a recipe and see `amino acids` details.
+user can use the (3rd party, no affiliation) site [My Food Data.Nutrition Facts Search Tool](https://tools.myfooddata.com/nutrition-facts/) to create a `nutrition table` by a recipe and see `amino acid` details.
 
 
 &nbsp;
